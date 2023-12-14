@@ -1,4 +1,4 @@
-const { squareNumber, doubleNumber, incrementNumber } = require('./03-func-solution')
+const { squareNumber, doubleNumber, incrementNumber } = require('./03-func-tasks')
 
 describe('Simple function call tests', () => {
   test('Task 1: squareNumber should square a number', () => {

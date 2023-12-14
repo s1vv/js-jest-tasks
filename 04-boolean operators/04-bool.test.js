@@ -8,7 +8,7 @@ const {
   isPositiveOrZero,
   isAnyCoordinatePositive,
   isNotNumberAndNotEmpty,
-} = require('./04-bool-solution');
+} = require('./04-bool-tasks');
 
 describe('Logical operators tests', () => {
   test('Task 1: Check if a number is even and positive', () => {

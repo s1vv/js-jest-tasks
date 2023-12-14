@@ -1,1 +1,27 @@
-{}
+{
+  "name": "js-jest-tasks",
+  "version": "1.0.0",
+  "description": "js jest tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s1vv/js-jest-tasks.git"
+  },
+  "keywords": [
+    "js",
+    "jest",
+    "tasks"
+  ],
+  "author": "Slava Fumin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s1vv/js-jest-tasks/issues"
+  },
+  "homepage": "https://github.com/s1vv/js-jest-tasks#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

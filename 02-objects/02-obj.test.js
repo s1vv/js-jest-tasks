@@ -1,6 +1,6 @@
 // В файле tasks.test.js
 
-const { person, addCityToPerson, removeAgeFromPerson, updatePersonName } = require('./02-obj-solution');
+const { person, addCityToPerson, removeAgeFromPerson, updatePersonName } = require('./02-obj-tasks');
 
 describe('Object manipulation tests with functions', () => {
   test('Task 1: createPerson should create an object with specified properties', () => {
